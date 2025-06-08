@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on AIML and WebDev stuff<br>
 👯 I’m looking to collaborate on new projects to widen my horizon!<br>
-🌱 I’m currently learning javascript<br>
+🌱 I’m currently learning LLMs<br>
 ⚡ Fun fact: Bears, Beets, Battlestar Galactica.
 
 
