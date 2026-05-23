@@ -1,5 +1,5 @@
 # 🫥 About Me:
-🔭 I’m currently working on AIML and WebDev stuff<br>
+🔭 I’m currently working on building a personal CDN<br>
 👯 I’m looking to collaborate on new projects and contribute to open source projects!<br>
 🌱 I’m currently learning about CDNs and mDNS<br>
 ⚡ Fun fact: Bears, Beets, Battlestar Galactica.
